@@ -39,7 +39,7 @@ main{
 }
 
 .details section h2{
-    margin: 0;
+    margin: 20px;
 }
 
 .details section.with-code {
